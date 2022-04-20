@@ -1,6 +1,6 @@
 //following are the steps to run code.
 
-1. Run code for Web Automation.
+Run code
 npm install
 
 For GUI mode
